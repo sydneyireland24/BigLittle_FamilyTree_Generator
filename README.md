@@ -4,12 +4,7 @@ the right data for the trees, and B. make it easy to update the trees for future
 a new family tree each year would be tedious and annoying). I landed on writing a program that would make family
 tree images for you, provided you feed in big/little data. The format of these big/little files are as follows:
 
-Big           |   Little
----------------------------
-Joe Mama      |  John Doe
-Joe Mama      |  Jane Doe
-Jane Doe      |  Alan Turing
-etc.
+![Screenshot (467)](https://github.com/sydneyireland24/BigLittle_FamilyTree_Generator/assets/54719754/21fec42e-643c-4ca3-9965-d0b16e9d4045)
 
 NOTE: ALL ELEMENTS MUST BE DISTINCT NAMES OR ELSE YOU MIGHT GET SOME WEIRD RESULTS
 these files can be found in the tau beta officer resources. Or if you're reading this off my GitHub, there's a
