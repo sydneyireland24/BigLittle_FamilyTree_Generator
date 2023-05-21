@@ -29,8 +29,8 @@ import graphviz
 import os
 
 # file names (hint: you probably need to change these on your end)
-data_file = 'Family_Lines_Orphan.csv' # file you're getting your data from
-family_tree_file = 'family_tree_orphan' # name of the final image of the family tree
+data_file = 'Family_Lines_Template.csv' # file you're getting your data from
+family_tree_file = 'family_tree_template' # name of the final image of the family tree
 
 # actual function for building the tree
 # ARGUMENTS
