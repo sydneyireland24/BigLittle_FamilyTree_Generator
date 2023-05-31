@@ -1,8 +1,8 @@
 # Introduction
-Hello! I have recently taken on the task of trying to get accurate and consistent records of the Tau Beta Family Trees. 
-I wanted to A. get the right data for the trees, and B. make it easy to update the trees for future generations (as I 
-figured drawing a new family tree each year would be tedious and annoying). I landed on writing a program that would make family
-tree images, provided you feed in big/little data. The format of these big/little files are as follows:
+Hello! I have recently taken on the task of trying to get accurate and consistent records of the Theta Tau - Tau Beta Family Trees. 
+I wanted to A. get the right data for the trees, and B. make it easy to update the trees for future generations (as I  figured drawing 
+a new family tree each year would be tedious and annoying). I landed on writing a program that would make family tree images, provided 
+you feed in big/little data. The format of these big/little files are as follows:
 
 ![Screenshot (467)](https://github.com/sydneyireland24/BigLittle_FamilyTree_Generator/assets/54719754/21fec42e-643c-4ca3-9965-d0b16e9d4045)
 
