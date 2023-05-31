@@ -1,3 +1,4 @@
+# Introduction
 Hello! If you're reading this, you're probably Tau Beta's newest Historian. I was in your shoes once too, and took
 on the task of trying to get accurate and consistent records of the Tau Beta Family Trees. I wanted to A. get
 the right data for the trees, and B. make it easy to update the trees for future generations (as I figured drawing
@@ -17,8 +18,9 @@ If for some reason you find this code to be difficult/it wont work, don't hesita
 @sydneyireland24@gmail.com
 
 # Dependencies/imports you'll need
-1. GraphViz
-2. Pandas
+1. Probably any Python version at or past v3
+2. GraphViz (https://graphviz.org/download/)
+3. Pandas
 
 # Instructions to run
 1. Get your favorite Python IDE up and running
