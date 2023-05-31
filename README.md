@@ -15,3 +15,13 @@ and may not function like they used to.
 
 If for some reason you find this code to be difficult/it wont work, don't hesitate to reach out to me
 @sydneyireland24@gmail.com
+
+# Dependencies/imports you'll need
+1. GraphViz
+2. Pandas
+
+# Instructions to run
+1. Get your favorite Python IDE up and running
+2. In the FamilyTreeGenerator.py file replace the filepaths/names to the appropriate path/names that you're using
+3. Run that bad boy
+4. Profit
