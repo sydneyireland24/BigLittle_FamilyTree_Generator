@@ -6,6 +6,8 @@ you feed in big/little data. The format of these big/little files are as follows
 
 ![Screenshot (467)](https://github.com/sydneyireland24/BigLittle_FamilyTree_Generator/assets/54719754/21fec42e-643c-4ca3-9965-d0b16e9d4045)
 
+![family_tree_template](https://github.com/sydneyireland24/BigLittle_FamilyTree_Generator/assets/54719754/d06a546f-23d7-4a9d-bfa8-f6cd15e5ed9b)
+
 NOTE: ALL ELEMENTS MUST BE DISTINCT NAMES OR ELSE YOU MIGHT GET SOME WEIRD RESULTS
 these files can be found in the tau beta officer resources. Or if you're reading this off my GitHub, there's a
 sample file in this repo.
