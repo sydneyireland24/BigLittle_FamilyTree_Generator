@@ -51,7 +51,7 @@ def build_family_tree(family_tree, big, dot, edges):
                     build_family_tree(family_tree, little, dot, edges)  # recursive call until we get to bottom of tree
 
 
-os.environ["PATH"] += os.pathsep + 'C:\Program Files\Graphviz\\bin'
+os.environ["PATH"] += os.pathsep + 'C:\Program Files\Graphviz\bin' # if you're on WIndows this is probably the move
 # replace the above with "/usr/local/graphviz-X.XX/bin" if you're on a MAC OS (where X.XX is the version)
 # if you're on Linux, you're probably 10x more competent than I am so figure out your own program path nerd
 
